@@ -1,0 +1,21 @@
+/**
+ * Feature
+ */
+
+.tm-feature {
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.17);
+    padding: 22px 20px;
+    background: #ffffff;
+
+    img {
+        height: 100px;
+        width: 100px;
+    }
+
+    h4 {
+        margin: 0;
+        font-size: 20px;
+        font-weight: 500;
+        margin-top: 22px;
+    }
+}

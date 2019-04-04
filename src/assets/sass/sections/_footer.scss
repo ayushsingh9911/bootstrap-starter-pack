@@ -1,0 +1,19 @@
+/**
+ * Footer
+ */
+
+.footer {
+    &-copyright {
+        text-align: center;
+        p {
+            color: #ffffff;
+            margin-bottom: 0;
+            padding: 15px 0;
+
+            a {
+                color: $color-theme;
+                font-weight: 600;
+            }
+        }
+    }
+}

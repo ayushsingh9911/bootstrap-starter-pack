@@ -1,0 +1,26 @@
+/**
+ * Call To Action
+ */
+
+.tm-cta {
+    h5 {
+        font-weight: 400;
+    }
+
+    .tm-button {
+        margin-top: 15px;
+    }
+
+    &-white {
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6,
+        p {
+            color: #ffffff;
+        }
+    }
+}
